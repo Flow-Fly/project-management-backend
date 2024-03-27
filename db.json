@@ -15,7 +15,7 @@
 	"favorites": [
 		{
 			"id": 1,
-			"taskId": 2
+			"projectId": 2
 		}
 	],
 	"tasks": [
